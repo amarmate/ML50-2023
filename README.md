@@ -7,9 +7,12 @@ In this file, you can write anything relevant to the work we are doing.
 3. __Consistency:__ Follow consistent coding style and naming conventions to ensure uniformity across the project.
 
 ## To Do List
-- Individual performance of the data handling on a separate jupyter notebook
-- Selection of the best of each work
-- Exporting the processed data to the Data folder to continue to the binary classification 
+- Individual performance of the data handling on a separate jupyter notebook (due 2023/10/29)
+- Selection of the best of each work (due 2023/10/5)
+- Exporting the processed data to the Data folder to continue to the binary classification (due 2023/10/5)
+- Building the models (no due date yet)
+- Writing the report (no due date yet)
+- Delivery of the work (please fill) 
 
 ## Objectives
 __1. Handling the data:__
