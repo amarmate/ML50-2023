@@ -1,7 +1,15 @@
 # Machine Learning group project 2023
 In this file, you can write anything relevant to the work we are doing.
 
+## Good coding practices to ensure good colaboration
+1. __Readability:__ Your code will be read by everyone in this group, and as such, we should all strive for good code readability.  Explaining most of what you did on your code with comments will help.
+2. __Modularity:__ Break down your code into smaller, reusable modules or functions to promote reusability and maintainability.
+3. __Consistency:__ Follow consistent coding style and naming conventions to ensure uniformity across the project.
+
 ## To Do List
+- Individual performance of the data handling on a separate jupyter notebook
+- Selection of the best of each work
+- Exporting the processed data to the Data folder to continue to the binary classification 
 
 ## Objectives
 __1. Handling the data:__
