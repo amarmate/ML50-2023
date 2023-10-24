@@ -12,7 +12,7 @@ In this file, you can write anything relevant to the work we are doing.
 - Exporting the processed data to the Data folder to continue to the binary classification (due 2023/10/5)
 - Building the models (no due date yet)
 - Writing the report (no due date yet)
-- Delivery of the work (please fill) 
+- Delivery of the work (2023/12/22) 
 
 ## Objectives
 __1. Handling the data:__
